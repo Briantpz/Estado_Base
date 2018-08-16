@@ -1,0 +1,132 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TNI Streaming</title>
+    <link href="../css/bootstrap.css" rel="stylesheet" type="text/css">
+      <style>
+    
+    .embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+.embed-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+    </style>
+</head>
+<body>
+	<div class="container-fluid">
+		
+	<header class="heading">
+		<ul>
+		<img src="images/LOGO TNI_100.png" class="img-responsive" alt="Logo TNI">
+		</ul>
+	</header>
+    
+    
+    <!--
+    <main class="content" style="width:100%; max-width:620px">
+   
+        <div id="ls_embed_1518027062" style="width:100%;background: url(./devel//wp-content/uploads/2018/01/dfg1.jpg) no-repeat;background-size: cover;background-position: center right;position: relative;">
+           <p style="width: 50%;font-size: 30px;position: absolute;margin: 20% 0 10% 5px;color: #fff;">En breve regresamos con la mejor programación</p>
+        </div> 
+        
+       
+        live streaming
+        <iframe id="ls_embed_1518027062" style="" src="https://livestream.com/accounts/26171477/events/8229348/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" width="100%" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
+        <script type="text/javascript" data-embed_id="ls_embed_1518027062" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
+        
+        facebook live iframe
+        <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNIcanal51RD%2Fvideos%2F1988602911429759%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+        
+        <style>
+            .bo{
+                background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), transparent 18px);
+                background-color: #ccc;
+            }
+            #ls_embed_1518027062{ height:400px}
+            @media (min-width:496px) and (max-width:992px){#ls_embed_1518027062{ height:350px;}}
+            @media (max-width:495px){#ls_embed_1518027062{ height:200px;} p{margin-top: 30px !important;}}
+        </style>
+    </main>--> 
+    <div class="container-fluid">
+    <div class="row">
+   
+        <div class="col-md-6">
+        
+                      <div class="embed-responsive embed-responsive-16by9">
+   <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNIcanal51RD%2Fvideos%2F1988602911429759%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+</div>
+            
+        </div>
+        <div class="col-md-6">
+                 <div class="embed-responsive embed-responsive-16by9">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KeKOHTRiWQA" frameborder="0" allowfullscreen></iframe>
+</div>
+            
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="" >
+        <div class="" style="background-color:#f8991f">
+            <h3><marquee behavior="" style="color:white;margin-top:10px"> Programación especial 155 conmemoración Día de la Restauración.</marquee></h3>
+        </div>
+    </div>
+</div>
+  
+  <div class="container-fluid">
+    <div class="">
+        <div class="">
+            <blockquote class="blockquote text-center">
+  <p class="mb-0">República Dominicana conmemora 
+
+</p>
+  <footer class="blockquote-footer">el 155 aniversario de la  <cite title="Source Title">Restauración</cite></footer>
+</blockquote>
+        </div>
+    </div>
+</div>
+ <div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-8">
+      <h2></h2>
+      <h4>El 16 de agosto de 1863 empezó la Guerra de la Restauración, librada por los dominicanos para recuperar la Independencia Nacional, perdida tras la anexión a España, proclamada por el caudillo Pedro Santana, quien entonces prometió que la unión con la Madre Patria le daría la paz al pueblo.</h4> 
+      <p>“La España nos protege, su pabellón nos cubre, sus armas se impondrán a los extraños; reconoce nuestras libertades, y juntos las defenderemos, formando un solo pueblo, una sola familia, como siempre lo fuimos...”, exclamó Santana el 18 de marzo de 1861.
+
+No obstante, siguió latiendo el deseo de restablecer la independencia, y se combatió en el territorio nacional por la liberación. La guerra finalizó el 11 de julio de 1865 con la salida definitiva de las tropas españolas.</p>
+     <p>Dada la victoria de los criollos se restituyó el Estado dominicano, nacido el 27 de febrero de 1844, cuando el país logró independizarse de Haití, bajo el liderazgo de Juan Pablo Duarte. Los principales héroes de la contienda restauradora fueron Gregorio Luperón, Ulises Francisco Espaillat, Gaspar Polanco, Santiago Rodríguez, Benigno Filomeno de Rojas, Benito Monción, Federico de Jesús García, José Antonio Salcedo, José María Cabral, Lucas Evangelista de Peña, Máximo Grullón, Pedro Antonio Pimentel, Pedro Francisco Bonó y Ricardo Curiel.</p>
+    </div>
+    <div class="col-sm-4">
+               <div align="center" class="embed-responsive embed-responsive-16by9">
+    <video autoplay loop class="embed-responsive-item">
+        <source src="Secuencia%2013.mp4" type="video/mp4">
+    </video>
+</div>
+    </div>
+  </div>
+</div>
+
+	<footer class="footer">		
+		<div class="creditos" style="text-align:center">
+			<p>&reg;TNI Canal 51. Todos los derechos reservados 2018</p>
+		</div>
+	</footer>
+</div>
+  
+     
+</body>
+</html>
